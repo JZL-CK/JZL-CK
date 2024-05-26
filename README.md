@@ -1,7 +1,8 @@
 ###  Jaseel C K 
 #### Research Student | Psych enthusiast | Eclectic polymath | Curious recluse
 
-![Research Student | Psych enthusiast | Eclectic polymath | Curious recluse](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![Research Student | Psych enthusiast | Eclectic polymath | Curious recluse]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/JZL-CK/JZL-CK/blob/main/Github%20Banner.png))
 
 
 ## Areas of Interest
