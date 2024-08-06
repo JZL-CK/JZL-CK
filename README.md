@@ -3,9 +3,6 @@
 ##
 ##
 
-![Research Student | Psych enthusiast | Eclectic polymath | Curious recluse](https://github.com/JZL-CK/JZL-CK/blob/main/Github%20Banner.png)
-
-
 ## Areas of Interest
 Positive Psychology | Structural Equation Modelling
 Positive Technology | Web-based Intervention
