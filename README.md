@@ -8,7 +8,7 @@ Positive Psychology | Structural Equation Modelling
 Positive Technology | Web-based Intervention
 Eudaimonic Media | Problematic Social Media Use
 Post-Traumatic Growth | Mental Health Literacy 
-Psychometrics | Psychocinematics | Sentiment Analysis |
+Psychometrics | Bibliometric Analysis | Psychocinematics | Sentiment Analysis |
 Social Media Analysis | Virtual Reality Interventions
 ##
 ## Technical Proficiencies  
