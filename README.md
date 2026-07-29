@@ -20,9 +20,7 @@ MSc Applied Psychology (Pondicherry Central University)
 BSc Psychology (Farook college, Calicut University)
 ##
 
-- 🔭 I’m currently working Structural Equation Modelling
-- 🌱 I’m currently learning Topic modelling  
-- 👯 I’m looking to collaborate on Sentiment Analysis 
+
 
 ##
 
